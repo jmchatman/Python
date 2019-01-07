@@ -1,1 +1,1 @@
-This is the master repo for my Python projects.
+This is the master repo for my Python training and projects.
